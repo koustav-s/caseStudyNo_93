@@ -79,9 +79,8 @@ This is a Java-based Hotel Management System that allows users to manage rooms, 
     ```
 
 5. Run the application:
-    ```sh
-    java hms.HotelManagementSystem
-    ```
+        If you're using an IDE like Eclipse, you can simply right-click on the HotelManagementSystem.java file and select Run As -> Java Application from the                context menu.
+
 
 Acknowledgments
 Inspired by various hotel management systems and Java tutorials.
